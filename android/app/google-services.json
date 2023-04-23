@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "482374606772",
+    "firebase_url": "https://alusoft-app-default-rtdb.firebaseio.com",
+    "project_id": "alusoft-app",
+    "storage_bucket": "alusoft-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:482374606772:android:62d67c663aeafcf3f7dce1",
+        "android_client_info": {
+          "package_name": "com.example.hello_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "482374606772-m2lj7ldckjdi6mdjt2c1lu4vvmovlgi9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlEgQaq3PMaLBi_mSqsDoP5Ax6eTNbcCg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "482374606772-kc8is8ehhm6ccs81g6m5gqh82ku15ja7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:482374606772:android:f32763072a297b7df7dce1",
+        "android_client_info": {
+          "package_name": "com.example.mete"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "482374606772-h4km2dl5nqc5nr5uh9f6l5qo78hchvad.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mete",
+            "certificate_hash": "82672f3097a34cff4a8dda4daf467167c4112fd9"
+          }
+        },
+        {
+          "client_id": "482374606772-m2lj7ldckjdi6mdjt2c1lu4vvmovlgi9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlEgQaq3PMaLBi_mSqsDoP5Ax6eTNbcCg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "482374606772-kc8is8ehhm6ccs81g6m5gqh82ku15ja7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
